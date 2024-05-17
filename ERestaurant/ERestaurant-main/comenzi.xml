@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Comanda" id="Comanda0">
+    <void class="Comanda" method="getField">
+     <string>masa</string>
+     <void method="set">
+      <object idref="Comanda0"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
